@@ -1,3 +1,5 @@
+# Spotify Music Data (Python)
+
 **Background:** Your friend, who is an aspiring musician, wants to make a hit song and has asked you to use your data skills to help her. You have decided to analyze what makes a top song, keeping in mind changes over the years. What concrete recommendations can you give her before she writes lyrics, makes beats, and records the song? She's open to any genre.
 
 **Purpose:** The project associated with this report used data consisting of music that was among the most popular "hit" (or top) songs according to the standards of the Billboard between 2010 & 2019. The dataset included information about songs such as the artist, genre, & several numerical parameters used to help describe the song in quantitative ways. Objectives of the analysis included:
