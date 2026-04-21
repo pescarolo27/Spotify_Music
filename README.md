@@ -9,4 +9,4 @@
 
 **The Data:** The data used in this report & project pertained to popular music as measured & identified by the Billboard. The dataset, which spanned from 2010 to 2019, included information that described & quantified each song. There are 603 observations & 14 different variables for each observation. There are no missing values in the dataset.
 
-Machine learning was not applied in this probject, but it could be.
+This project was done in June-July, 2024. Machine learning was not applied in this probject, but it could be.
